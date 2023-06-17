@@ -1,0 +1,15 @@
+C:\Users\devik\source\repos\recruitment_procedure\dal\bin\Debug\net6.0\Dal.deps.json
+C:\Users\devik\source\repos\recruitment_procedure\dal\bin\Debug\net6.0\Dal.dll
+C:\Users\devik\source\repos\recruitment_procedure\dal\bin\Debug\net6.0\Dal.pdb
+C:\Users\devik\source\repos\recruitment_procedure\dal\bin\Debug\net6.0\Model.dll
+C:\Users\devik\source\repos\recruitment_procedure\dal\bin\Debug\net6.0\Model.pdb
+C:\Users\devik\source\repos\recruitment_procedure\dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+C:\Users\devik\source\repos\recruitment_procedure\dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devik\source\repos\recruitment_procedure\dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+C:\Users\devik\source\repos\recruitment_procedure\dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+C:\Users\devik\source\repos\recruitment_procedure\dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\devik\source\repos\recruitment_procedure\dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+C:\Users\devik\source\repos\recruitment_procedure\dal\obj\Debug\net6.0\Dal.dll
+C:\Users\devik\source\repos\recruitment_procedure\dal\obj\Debug\net6.0\refint\Dal.dll
+C:\Users\devik\source\repos\recruitment_procedure\dal\obj\Debug\net6.0\Dal.pdb
+C:\Users\devik\source\repos\recruitment_procedure\dal\obj\Debug\net6.0\ref\Dal.dll

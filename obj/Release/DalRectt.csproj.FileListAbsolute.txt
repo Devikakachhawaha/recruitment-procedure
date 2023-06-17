@@ -1,0 +1,2 @@
+C:\Users\devik\source\repos\recruitment_procedure\DalRectt\obj\Release\DalRectt.csproj.AssemblyReference.cache
+C:\Users\devik\source\repos\recruitment_procedure\DalRectt\obj\Release\DalRectt.csproj.CoreCompileInputs.cache
