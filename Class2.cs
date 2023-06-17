@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ModelRectt
+namespace Model
 {
-    public class Class1
+    internal class Class2
     {
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "96dirE8ieb/PhtcXPeLLV35OqcfDwPJRz7HSQu1GfVZkOqWp38UQz16uGGX1oCDIUHc1yachgFxOxJ4jvmOXXA==",
+  "dgSpecHash": "W/2kxZE3Bp0jAR9ftnQTGUK2G6Mc0jwv+fDWCPDSUv0/rmwW/i+4+Jx/uaSUdbsCPSq/anPvMzbeKnVNjvfibg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\devik\\source\\repos\\recruitment_procedure\\dal\\Dal.csproj",
+  "projectFilePath": "C:\\Users\\devik\\source\\repos\\recruitment_procedure\\Model\\Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
