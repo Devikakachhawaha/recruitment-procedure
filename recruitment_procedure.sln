@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "recruitmentappln", "recruitmentappln\", "{E9CF157A-64B4-46A6-B45F-6F7CBF7C5589}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0566EA0B-BCD1-4746-8C7C-A2ED07D6DC98} = {0566EA0B-BCD1-4746-8C7C-A2ED07D6DC98}
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		ProjectReferences = "{7e2bfaf8-0cc2-415d-859e-157d3a9f2297}|BllRectt.dll;{13bf0c4a-cf9e-46ae-ab31-02301065734c}|ModelRectt.dll;{4dd29811-1bcd-4729-a420-b4bde3cbfc01}|UtilityRectt.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59659"
+		Debug.AspNetCompiler.PhysicalPath = "recruitmentappln\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59659\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59659"
+		Release.AspNetCompiler.PhysicalPath = "recruitmentappln\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59659\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59659"
+		SlnRelativePath = "recruitmentappln\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BllRectt", "BllRectt\BllRectt.csproj", "{7E2BFAF8-0CC2-415D-859E-157D3A9F2297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DalRectt", "DalRectt\DalRectt.csproj", "{0566EA0B-BCD1-4746-8C7C-A2ED07D6DC98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelRectt", "ModelRectt\ModelRectt.csproj", "{13BF0C4A-CF9E-46AE-AB31-02301065734C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityRectt", "UtilityRectt\UtilityRectt.csproj", "{4DD29811-1BCD-4729-A420-B4BDE3CBFC01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9CF157A-64B4-46A6-B45F-6F7CBF7C5589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CF157A-64B4-46A6-B45F-6F7CBF7C5589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CF157A-64B4-46A6-B45F-6F7CBF7C5589}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CF157A-64B4-46A6-B45F-6F7CBF7C5589}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{7E2BFAF8-0CC2-415D-859E-157D3A9F2297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2BFAF8-0CC2-415D-859E-157D3A9F2297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2BFAF8-0CC2-415D-859E-157D3A9F2297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2BFAF8-0CC2-415D-859E-157D3A9F2297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0566EA0B-BCD1-4746-8C7C-A2ED07D6DC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0566EA0B-BCD1-4746-8C7C-A2ED07D6DC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0566EA0B-BCD1-4746-8C7C-A2ED07D6DC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0566EA0B-BCD1-4746-8C7C-A2ED07D6DC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BF0C4A-CF9E-46AE-AB31-02301065734C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BF0C4A-CF9E-46AE-AB31-02301065734C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BF0C4A-CF9E-46AE-AB31-02301065734C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BF0C4A-CF9E-46AE-AB31-02301065734C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD29811-1BCD-4729-A420-B4BDE3CBFC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD29811-1BCD-4729-A420-B4BDE3CBFC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD29811-1BCD-4729-A420-B4BDE3CBFC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD29811-1BCD-4729-A420-B4BDE3CBFC01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34325D89-7AD1-4613-A075-A18AF4ECA672}
+	EndGlobalSection
+EndGlobal

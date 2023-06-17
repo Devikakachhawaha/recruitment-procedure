@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devik\\source\\repos\\recruitment_procedure\\Model\\Model.csproj",
-      "projectName": "Model",
-      "projectPath": "C:\\Users\\devik\\source\\repos\\recruitment_procedure\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\devik\\source\\repos\\recruitment_procedure\\utility\\Utility.csproj",
+      "projectName": "Utility",
+      "projectPath": "C:\\Users\\devik\\source\\repos\\recruitment_procedure\\utility\\Utility.csproj",
       "packagesPath": "C:\\Users\\devik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devik\\source\\repos\\recruitment_procedure\\Model\\obj\\",
+      "outputPath": "C:\\Users\\devik\\source\\repos\\recruitment_procedure\\utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\devik\\AppData\\Roaming\\NuGet\\NuGet.Config",
